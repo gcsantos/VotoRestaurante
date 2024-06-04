@@ -1,0 +1,6 @@
+@VotoRestaurante_HostAddress = http://localhost:5263
+
+GET {{VotoRestaurante_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
